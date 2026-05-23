@@ -1,12 +1,12 @@
 <?php
 /**
  * Plugin Name: T-Work FCM Notify
- * Plugin URI: https://github.com/mawkunnmyat/twork-fcm-notify
+ * Plugin URI: https://github.com/tworksystem/twork-fcm-notify
  * Description: Store FCM tokens and send push notifications on WooCommerce order status changes using Firebase Cloud Messaging v1 API.
  * Version: 1.0.0
  * Author: T-Work System
- * Author URI: https://github.com/mawkunnmyat
- * License: Proprietary
+ * Author URI: https://github.com/tworksystem
+ * License: MIT
  * Text Domain: twork-fcm-notify
  * Domain Path: /languages
  * Requires at least: 5.0
