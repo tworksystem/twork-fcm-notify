@@ -119,7 +119,7 @@ twork-fcm-notify/
 
 ```bash
 cd wp-content/plugins
-git clone https://github.com/mawkunnmyat/twork-fcm-notify.git
+git clone https://github.com/tworksystem/twork-fcm-notify.git
 cd twork-fcm-notify
 ```
 
@@ -392,7 +392,7 @@ Logs: `wp-content/debug.log` — search for `[T-Work FCM]`.
 
 ## 🤝 Contributing
 
-Contributions are welcome! 🎉
+Contributions are welcome! 🎉 See [CONTRIBUTING.md](CONTRIBUTING.md) for setup, code standards, and PR guidelines.
 
 1. 🍴 Fork the repository
 2. 🌿 Create a feature branch: `git checkout -b feat/your-feature`
@@ -431,7 +431,7 @@ docs: 24052026 - expand mobile integration guide in README
 
 ### 🗓 24 May 2026
 
-- ✨ Published standalone repository under [mawkunnmyat/twork-fcm-notify](https://github.com/mawkunnmyat/twork-fcm-notify)
+- ✨ Published repository under [tworksystem/twork-fcm-notify](https://github.com/tworksystem/twork-fcm-notify)
 - 📚 Comprehensive README with architecture, API, and security guides
 - 🐛 FCM data payload preserves camelCase keys for Flutter/mobile clients
 - 🔇 Added silent FCM suppression flag for admin bulk operations
@@ -448,13 +448,13 @@ docs: 24052026 - expand mobile integration guide in README
 
 MIT License — see [LICENSE](LICENSE).
 
-Copyright (c) 2025–2026 [T-Work System](https://github.com/mawkunnmyat) & contributors.
+Copyright (c) 2025–2026 [T-Work System](https://github.com/tworksystem) & contributors.
 
 ---
 
 ## 💬 Support
 
-- 🐛 [Open an Issue](https://github.com/mawkunnmyat/twork-fcm-notify/issues)
+- 🐛 [Open an Issue](https://github.com/tworksystem/twork-fcm-notify/issues)
 - 📖 [Firebase Cloud Messaging Docs](https://firebase.google.com/docs/cloud-messaging)
 - 🛒 [WooCommerce Developer Docs](https://developer.woocommerce.com/)
 - 🔌 [WordPress Plugin Handbook](https://developer.wordpress.org/plugins/)
